@@ -1,10 +1,15 @@
-html{
+html {
     scroll-behavior: smooth;
 }
-#masjidalharam{
+
+#masjidalharam {
     width: 900px;
 }
 
-#alnabawi{
-   width: 900px; 
+#alnabawi {
+    width: 900px;
+}
+
+#myNavbar {
+    margin-top: 0%;
 }
